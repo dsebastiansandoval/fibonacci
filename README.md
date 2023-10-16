@@ -4,6 +4,7 @@ This project is a simple implementation of a REST API that calculates and return
 
 Resources needed 
 > gem install sinatra
+
 > gem install minitest
 
 
