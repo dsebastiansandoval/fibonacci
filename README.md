@@ -20,6 +20,7 @@ For example, if you request `/fibonacci/6`, you will receive a JSON response wit
 
 run it localy by:
 >> ruby fibonacci.rb
+
 test API BY:
 >> http://localhost:4567/fibonacci/6
 
