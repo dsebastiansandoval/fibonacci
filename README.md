@@ -3,8 +3,8 @@
 This project is a simple implementation of a REST API that calculates and returns Fibonacci sequence values based on the provided index. The API has been developed in Ruby using the Sinatra framework.
 
 Resources needed 
-gem install sinatra
-gem install minitest
+> gem install sinatra
+> gem install minitest
 
 
 ## Functionality
